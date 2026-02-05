@@ -4,8 +4,12 @@ import { ToastProvider } from '@/context/ToastContext';
 import { AuthProvider } from '@/context/AuthContext';
 
 export const metadata = {
-  title: 'Notes & Bookmarks Manager',
-  description: 'A personal notes and bookmark manager application',
+  title: 'Notely - Notes & Bookmarks',
+  description: 'Your personal notes and bookmark manager',
+  icons: {
+    icon: '/favicon.svg',
+    apple: '/apple-touch-icon.svg',
+  },
 };
 
 export default function RootLayout({ children }) {

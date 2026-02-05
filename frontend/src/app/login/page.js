@@ -55,7 +55,7 @@ export default function LoginPage() {
                 </linearGradient>
               </defs>
             </svg>
-            <span>Notes</span>
+            <span>Notely</span>
           </Link>
         </div>
 

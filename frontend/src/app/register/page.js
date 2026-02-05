@@ -61,7 +61,7 @@ export default function RegisterPage() {
                 </linearGradient>
               </defs>
             </svg>
-            <span>Notes</span>
+            <span>Notely</span>
           </Link>
         </div>
 
