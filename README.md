@@ -6,6 +6,10 @@ A full-stack web application for saving, searching, and organizing notes and boo
 
 **Built for Dev Innovations Labs - Developer Assignment**
 
+## 🌐 Live Demo
+
+🔗 **[https://notely-notes-bookmarks.vercel.app](https://notely-notes-bookmarks.vercel.app)**
+
 ---
 
 ## 🛠️ Tech Stack
@@ -87,7 +91,7 @@ Same pattern for `/api/bookmarks`
 
 ---
 
-## � Environment Variables
+## 🔧 Environment Variables
 
 ### Backend (.env)
 ```env
